@@ -21,6 +21,12 @@
   </url>
   
   <url>
+    <loc>https://example.com/b5f1rgyr/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://example.com/cloudericks/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -34,18 +40,6 @@
   
   <url>
     <loc>https://example.com/hugo/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/wi2gz5se/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/xwayecbw/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
