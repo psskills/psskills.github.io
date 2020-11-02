@@ -15,6 +15,12 @@
   </url>
   
   <url>
+    <loc>https://example.com/5qn6o3gc/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://example.com/azpspl/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
